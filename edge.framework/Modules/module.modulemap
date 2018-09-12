@@ -1,0 +1,6 @@
+framework module Edge {
+  umbrella header "EdgeService.h"
+
+  export *
+  module * { export * }
+}
