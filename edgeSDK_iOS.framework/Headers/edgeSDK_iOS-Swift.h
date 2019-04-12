@@ -191,7 +191,7 @@ SWIFT_CLASS("_TtC11edgeSDK_iOS10EdgeConfig")
 @property (nonatomic, readonly, copy) NSString * _Nonnull description;
 /// Unique node identifier.
 @property (nonatomic, readonly, copy) NSString * _Null_unspecified nodeId;
-/// edgeSDK service link. Usually http://127.0.0.1:8083
+/// edgeSDK service link. The port number will be randomized.
 @property (nonatomic, readonly, copy) NSString * _Null_unspecified edgeServiceLink;
 /// edgeSDK node display name.
 @property (nonatomic, readonly, copy) NSString * _Null_unspecified nodeName;
