@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "edgeSDK-iOS"
-  s.version      = "2.3.5"
+  s.version      = "2.3.6"
   s.summary      = "mimik Edge empowers developers to discover, connect, and communicate with various heterogeneous devices. Production backend."
 
   s.description  = <<-DESC
