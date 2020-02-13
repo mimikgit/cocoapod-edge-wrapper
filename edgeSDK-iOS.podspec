@@ -25,6 +25,6 @@ Pod::Spec.new do |s|
   s.vendored_frameworks = "edgeSDK_iOS.framework", "edge.framework"
 
   s.platform = 'ios', '12.0'
-  s.platform = 'watchos', '6.0'
+  s.platform = 'watchos', '6.1.2'
   s.swift_version = '5.1'
 end
